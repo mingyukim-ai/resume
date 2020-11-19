@@ -24,7 +24,7 @@ resume_contact_address:         "26, 43-gil Olympic-ro, Songpa-gu, Seould, Korea
 # display_header_contact_info:    "false"
 
 resume_header_intro: "<p>
-I am a postdoctoral research fellow in Medical Imaging and Intelligent Reality lab (MI2RL) of Asan Medical Center and Univ. of Ulsan College of Medicine. I am inerested in medical data analysis (mostly medical image) to extract hidden biomarker. This research is mostly based on the deep learning and thus I am interested in output feature analysis to make explainable AI-based algorithm and to prove reliability of AI result.</p>"
+I am a postdoctoral research fellow in Medical Imaging and Intelligent Reality lab (MI2RL) of Asan Medical Center and Univ. of Ulsan College of Medicine. I am inerested in medical data analysis (mostly medical image) to extract hidden biomarker. This research is mostly based on the deep learning and thus I am also interested in output feature analysis to make explainable AI-based algorithm and to prove reliability of AI result.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
