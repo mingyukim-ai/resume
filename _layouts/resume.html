@@ -216,6 +216,27 @@
       <!-- end Publications -->
       {% endif %}
 
+      {% if site.resume_section_presentations %}
+      <!-- begin Presentations -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Presentations</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for presentations in site.data.presentations %}
+            <li>{{ presentations.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Presentations -->
+      {% endif %}
+    
+    
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
