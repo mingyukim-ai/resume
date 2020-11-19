@@ -23,7 +23,8 @@ resume_contact_address:         "26, 43-gil Olympic-ro, Songpa-gu, Seould, Korea
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 # display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>
+I am a postdoctoral research fellow in Medical Imaging and Intelligent Reality lab (MI2RL) of Asan Medical Center and Univ. of Ulsan College of Medicine. I am inerested in medical data analysis (mostly medical image) to extract hidden biomarker. This research is mostly based on the deep learning and thus interested in output feature analysis to make explainable AI-based algorithm and to prove reliability of AI result.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
