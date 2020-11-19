@@ -194,6 +194,27 @@
       </section>
       <!-- end Interests -->
       {% endif %}
+    
+    
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Outside Publications</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for publications in site.data.publications %}
+            <li>{{ publications.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
 
       {% if site.resume_section_links %}
       <!-- begin Links -->
